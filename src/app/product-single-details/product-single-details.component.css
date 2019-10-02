@@ -1,0 +1,20 @@
+h3{
+    background-color: rgba(62, 143, 248, 0.733);
+    margin-top: 0;
+    text-align: left;
+}
+.singleProduct{
+    width: 200px;
+    border-top-style: solid;
+    border-top-color: blue;
+    border-top-width: 3px;
+}
+.productList{
+    border-left-style: double;
+    border-left-width: 5px;
+    border-left-color: rgba(29, 81, 150, 0.733);
+}
+img{
+width: 200px;
+height: 200px;
+}
